@@ -1,6 +1,6 @@
 ---
 title: "TryHackMe - Dreaming"
-date: 2026-07-31 19:00:00 -0400
+date: 2026-07-31 08:00:00 -0400
 categories: [Writeups, Web-PrivEsc]
 tags: [tryhackme, pluck, cms, command-injection, python-library-hijacking, mysql, privesc]
 media_subpath: /assets/img/posts/dreaming/
